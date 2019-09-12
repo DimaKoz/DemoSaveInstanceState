@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SaveActivityInstance</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_message">Your message</string>
+    <string name="chooser_title">Share</string>
+    <string name="explicit">Explicit Intent</string>
+    <string name="implicit">Implicit Intent</string>
+</resources>
